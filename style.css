@@ -1,0 +1,13 @@
+.country {
+
+    background: rgb(197, 127, 127);
+    padding: 10px;
+    gap: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.section-id {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
